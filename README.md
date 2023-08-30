@@ -32,6 +32,9 @@
 **전세진**|로그인 페이지 , 상세 페이지 , 리스트 페이지 , 지도 기능|
 **이수연**|예약 기능 , 쿠폰 기능 , 사장님 마이페이지|
 ***
+## 🎞️ 시연 영상
+
+[![Video Label](http://img.youtube.com/vi/2by7erj3y2o/0.jpg)](https://www.youtube.com/watch?v=2by7erj3y2o)
 
 ## :exclamation: 페이지별 기능
 
